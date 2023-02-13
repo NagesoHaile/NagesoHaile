@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NagesoHaile
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning web development and flutter app development
+- 🌱 I’m currently working on web development and flutter app development
 - 💞️ I’m looking to collaborate on doing some stuff..
 
 
