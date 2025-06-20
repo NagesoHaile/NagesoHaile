@@ -35,7 +35,6 @@ A bill management and delivery app tailored for ride-hailing and food delivery s
 > - Built-in real-time recording display & smart text UI  
 >  
 > 📌 Delivered with full documentation and client praise  
-> 🔗 *Demo or code lab available on request*
 
 ### 🎯 [Afri – Resume Builder App](https://play.google.com/store/apps/details?id=com.betterpluslabs.betterplus)
 A fully customizable resume builder with clean export-ready designs. Built in Flutter using Supabase and local storage.
