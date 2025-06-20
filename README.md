@@ -40,7 +40,7 @@ Full-stack ride-hailing app with real-time tracking and a seamless user experien
 A fully customizable resume builder with clean export-ready designs. Built in Flutter using Supabase and local storage.
 
 ### 💰 [Centy – Small Business Budgeting App](https://play.google.com/store/apps/details?id=com.centyapp.centy)
-A budgeting tool for micro-enterprises to track daily income and expenses. Firebase + Flutter based MVP.
+A budgeting tool for micro-enterprises to track daily income and expenses.
 
 ### 🧩 [init_pro – Dart CLI Tool](https://pub.dev/packages/init_pro)
 A CLI tool that automates Flutter boilerplate setup with clean architecture and folder structure support.
