@@ -3,8 +3,6 @@
 🎯 **Flutter Developer | Mobile App Engineer | Technical Creator**  
 📍 Based in Addis Ababa, Ethiopia  
 📱 3+ years of hands-on Flutter experience building sleek, scalable, and production-ready apps for Android & iOS  
-🏢 Currently working at [2F Capital PLC](https://2f-capital.com) as a Mobile Application Developer
-
 ---
 
 ## 💼 About Me
@@ -48,19 +46,13 @@ A bill management and delivery app tailored for ride-hailing and food delivery s
 - **Version Control**: Git, GitHub  
 - **Tooling**: Firebase Crashlytics, Google APIs, `flutter_bloc`, `dio`, `get_it`
 
----
 
-## 📈 GitHub Stats
-
-![Negeso's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nagesohaile&show_icons=true&theme=dracula)
-
----
 
 ## 🌐 Connect with Me
 
 - 📧 Email: [negesohaile25@gmail.com](mailto:negesohaile25@gmail.com)  
 - 🌍 Portfolio: [negesohaile.tech](https://www.negesohaile.tech)  
-- 💼 LinkedIn: [linkedin.com/in/nagesohaile](https://linkedin.com/in/nagesohaile)  
+- 💼 LinkedIn: [linkedin.com/in/nagesohaile](https://www.linkedin.com/in/nageso-haile/)  
 - 💬 WhatsApp: [+251 974 890 490](https://wa.me/251974890490)
 
 ---
