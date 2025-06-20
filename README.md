@@ -52,9 +52,9 @@ A CLI tool that automates Flutter boilerplate setup with clean architecture and 
 ## 🧠 Skills
 
 - **Languages**: Dart, JavaScript, SQL  
-- **Mobile**: Flutter, Flutter Web, React Native  
+- **Mobile**: Flutter
 - **Backend**: Firebase, Supabase, Node.js  
-- **Databases**: PostgreSQL, SQLite, Firestore, Realtime DB  
+- **Databases**: PostgreSQL, SQLite, Firestore 
 - **Testing**: Unit, Widget & Integration Testing with Flutter DevTools  
 - **Version Control**: Git, GitHub  
 - **Tooling**: Firebase Crashlytics, Google APIs, `flutter_bloc`, `dio`, `get_it`
