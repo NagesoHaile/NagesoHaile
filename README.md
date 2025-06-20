@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Negeso Haile
 
 🎯 **Flutter Developer | Mobile App Engineer | Technical Creator**  
-📍 Based in Addis Ababa, Ethiopia  
+ 
 📱 3+ years of hands-on Flutter experience building sleek, scalable, and production-ready apps for Android & iOS  
 ---
 
