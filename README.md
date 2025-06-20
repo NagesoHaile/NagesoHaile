@@ -23,8 +23,8 @@ I'm a dedicated Flutter developer passionate about delivering clean, intuitive, 
 ### 🚕 [FetroAder – Job Matching Platform](https://play.google.com/store/apps/details?id=com.fetroader.app.fetroader)
 A multi-role app for job seekers and companies. Built during employment at 2F Capital PLC.
 
-### 🍔 [RidePlus & Delivery Driver App](https://play.google.com/store/apps/details?id=com.ridetm)
-A bill management and delivery app tailored for ride-hailing and food delivery services.
+### 🍔 [RidePlus ](https://play.google.com/store/apps/details?id=com.ridetm)
+Full-stack ride-hailing app with real-time tracking and a seamless user experience.
 
 ### 🎙️ [Voice Summary – AI Transcription & Summarization App](#)
 > **(Freelance Project)**  
