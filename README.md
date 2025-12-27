@@ -1,73 +1,128 @@
 # 👋 Hi, I'm Negeso Haile
 
-🎯 **Flutter Developer | Mobile App Engineer | Technical Creator**  
- 
-📱 3+ years of hands-on Flutter experience building sleek, scalable, and production-ready apps for Android & iOS  
----
+🚀 **Software Engineer | Flutter Specialist | Full-Stack Mobile Developer**
 
-## 💼 About Me
-
-I'm a dedicated Flutter developer passionate about delivering clean, intuitive, and robust mobile solutions. From cross-platform UI development to backend integrations and production deployments, I handle full-cycle app development with attention to detail and user experience.  
-
-🛠️ I specialize in:
-- Cross-platform mobile development with **Flutter & Dart**
-- Integration with **Firebase**, REST APIs, WebSockets
-- Local storage with **SQLite**, secure file access, and offline support
-- Clean architecture & CLI tools to speed up development (`init_pro`)
-- AI Integration using **Google Speech-to-Text** and **Gemini API**
+📍 Addis Ababa, Ethiopia  
+📱 3+ years building production-ready mobile applications used by real users
 
 ---
 
-## 🚀 Notable Projects
+## 👨‍💻 About Me
 
-### 👨‍💻 [FetroAder – Job Matching Platform](https://play.google.com/store/apps/details?id=com.fetroader.app.fetroader)
-A multi-role app for job seekers and companies.
+I’m a **Software Engineer** with over **3 years of hands-on experience** designing and building scalable mobile applications and backend integrations.
 
-### 🚗 [RidePlus ](https://play.google.com/store/apps/details?id=com.ridetm)
-Full-stack ride-hailing app with real-time tracking and a seamless user experience.
+I specialize in **Flutter** and enjoy taking products **from idea → architecture → production → store deployment**. I’ve worked on job platforms, ride-hailing systems, fintech wallets, AI-powered apps, and open-source tools.
 
-### 🎙️ [Voice Summary – AI Transcription & Summarization App](#)
-> **(Freelance Project)**  
-> A Flutter app that allows users to:
-> - Record audio via device mic  
-> - Transcribe speech to text using **Google Cloud Speech-to-Text API**  
-> - Summarize results using **Google Gemini API**  
-> - Built-in real-time recording display & smart text UI  
->  
-> 📌 Delivered with full documentation and client praise  
-
-### 🎯 [Afri – Resume Builder App](https://play.google.com/store/apps/details?id=com.betterpluslabs.betterplus)
-A fully customizable resume builder with clean export-ready designs. Built in Flutter using Supabase and local storage.
-
-### 💰 [Centy – Small Business Budgeting App](https://play.google.com/store/apps/details?id=com.centyapp.centy)
-A budgeting tool for micro-enterprises to track daily income and expenses.
-
-### 🧩 [init_pro – Dart CLI Tool](https://pub.dev/packages/init_pro)
-A CLI tool that automates Flutter boilerplate setup with clean architecture and folder structure support.
-
-
+I care deeply about:
+- Clean architecture & maintainable code
+- Performance and real-world reliability
+- Shipping features that actually solve problems
 
 ---
 
-## 🧠 Skills
+## 🛠️ Tech Stack
 
-- **Languages**: Dart, JavaScript, SQL  
-- **Mobile**: Flutter
-- **Backend**: Firebase, Supabase, Node.js  
-- **Databases**: PostgreSQL, SQLite, Firestore 
-- **Testing**: Unit, Widget & Integration Testing with Flutter DevTools  
-- **Version Control**: Git, GitHub  
-- **Tooling**: Firebase Crashlytics, Google APIs, `flutter_bloc`, `dio`, `get_it`
+**Languages**
+- Dart, JavaScript, SQL
 
+**Mobile**
+- Flutter (Android & iOS)
+- flutter_bloc, dio, get_it
 
+**Backend & APIs**
+- Firebase, Supabase, Node.js
+- REST APIs, WebSockets
 
-## 🌐 Connect with Me
+**Databases**
+- PostgreSQL, MySQL, SQLite, Firestore
 
-- 📧 Email: [negesohaile25@gmail.com](mailto:negesohaile25@gmail.com)  
-- 🌍 Portfolio: [negesohaile.tech](https://www.negesohaile.tech)  
-- 💼 LinkedIn: [linkedin.com/in/nagesohaile](https://www.linkedin.com/in/nageso-haile/)  
-- 💬 WhatsApp: [+251 974 890 490](https://wa.me/251974890490)
+**Testing & Quality**
+- Unit, Widget & Integration Testing
+- Flutter DevTools, Firebase Crashlytics
+
+**Tools**
+- Git, GitHub
+- Google Cloud APIs (Speech-to-Text, Gemini)
 
 ---
 
-> *"Building digital solutions that matter — one Flutter app at a time."*
+## 🚀 Featured Projects
+
+### 👨‍💼 **FetroAder – Job Matching Platform**
+🔗 https://play.google.com/store/apps/details?id=com.fetroader.app.fetroader  
+
+- Lead Mobile Developer
+- Multi-role platform for job seekers & employers
+- Authentication, real-time updates & push notifications
+- Deployed to Google Play with strong early adoption
+
+---
+
+### 🚗 **RidePlus – Ride-Hailing System**
+🔗 https://play.google.com/store/apps/details?id=com.ridetm  
+
+- Full-stack ride-hailing & billing system
+- Real-time tracking & fare management
+- Production-ready Flutter application
+
+---
+
+### 🎙️ **Voice Summary – AI Transcription & Summarization**
+🛠️ *Freelance Project*  
+
+A Flutter app that allows users to:
+- Record audio using device microphone
+- Transcribe speech with **Google Cloud Speech-to-Text**
+- Generate summaries using **Google Gemini API**
+- View real-time recording UI with smart text layout
+
+📌 Delivered with full documentation and client praise
+
+---
+
+### 🧩 **init_pro – Flutter CLI Tool**
+🔗 https://pub.dev/packages/init_pro  
+
+- Open-source Dart CLI tool
+- Automates Flutter project setup
+- Supports clean architecture & feature scaffolding
+- Designed to speed up real-world Flutter workflows
+
+---
+
+### 🎯 **Afri – Resume Builder App**
+- Customizable resume builder
+- Clean, export-ready designs
+- Built with Flutter, Supabase & local storage
+
+---
+
+### 💼 **Fintech Wallet App** 
+- Lead Mobile Developer
+- KYC verification & secure wallet transactions
+- Focus on data security, encryption & performance
+
+---
+
+## 💼 Professional Experience Highlights
+
+- Designed and maintained cross-platform Flutter apps
+- Integrated REST APIs, Firebase services & WebSockets
+- Implemented offline-first features using SQLite
+- Mentored junior developers on Flutter best practices
+- Collaborated with backend & product teams
+- Deployed and maintained apps on Google Play Store
+
+---
+
+## 🌐 Connect With Me
+
+- 📧 Email: **negesohaile25@gmail.com**
+- 🌍 Portfolio: https://www.negesohaile.tech
+- 💼 LinkedIn: https://www.linkedin.com/in/nageso-haile/
+- 💬 WhatsApp: https://wa.me/251974890490
+- 🧑‍💻 GitHub: https://github.com/NagesoHaile
+
+---
+
+> *“Building scalable mobile solutions with Flutter — clean code, real users, real impact.”*
